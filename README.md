@@ -1,4 +1,8 @@
-# Welcome to a multiple environment CDK TypeScript project
+# Welcome to a multiple environment <img src="assets/svg/aws.svg"/> CDK project
+
+<img src="assets/svg/cdk.svg" height="75px" />
+
+<br />
 
 This is a multiple environment CDK project with TypeScript.
 
