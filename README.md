@@ -22,6 +22,12 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 - `npm run watch` watch for changes and compile
 - `npm run test` perform the jest unit tests
 
+- `cdk bootstrap dev` bootstrap the dev environment
+- `cdk bootstrap test` bootstrap the test environment
+- `cdk bootstrap uat` bootstrap the uat environment
+- `cdk bootstrap staging` bootstrap the staging environment
+- `cdk bootstrap prod` bootstrap the prod environment
+- 
 - `cdk deploy dev` deploy to dev
 - `cdk deploy test` deploy to test
 - `cdk deploy uat` deploy to uat
